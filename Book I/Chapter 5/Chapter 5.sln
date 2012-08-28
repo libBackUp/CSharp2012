@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateInterest", "CalculateInterest\CalculateInterest.csproj", "{61DF5F60-6210-456B-8C57-A64EEFA02AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateInterestWithEmbeddedTest", "CalculateInterestWithEmbeddedTest\CalculateInterestWithEmbeddedTest.csproj", "{B26311AF-E3E8-48FA-AEBE-157E0320BB03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateInterestTable", "CalculateInterestTable\CalculateInterestTable.csproj", "{52965616-7671-4DBC-8D75-F099CA4795EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateInterestTableMoreForgiving", "CalculateInterestTableMoreForgiving\CalculateInterestTableMoreForgiving.csproj", "{120FF582-5548-43EF-913C-331390DC9764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DF5F60-6210-456B-8C57-A64EEFA02AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DF5F60-6210-456B-8C57-A64EEFA02AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DF5F60-6210-456B-8C57-A64EEFA02AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DF5F60-6210-456B-8C57-A64EEFA02AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26311AF-E3E8-48FA-AEBE-157E0320BB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26311AF-E3E8-48FA-AEBE-157E0320BB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26311AF-E3E8-48FA-AEBE-157E0320BB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26311AF-E3E8-48FA-AEBE-157E0320BB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52965616-7671-4DBC-8D75-F099CA4795EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52965616-7671-4DBC-8D75-F099CA4795EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52965616-7671-4DBC-8D75-F099CA4795EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52965616-7671-4DBC-8D75-F099CA4795EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120FF582-5548-43EF-913C-331390DC9764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120FF582-5548-43EF-913C-331390DC9764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120FF582-5548-43EF-913C-331390DC9764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120FF582-5548-43EF-913C-331390DC9764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
