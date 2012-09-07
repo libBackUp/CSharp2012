@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidingWithdrawal", "HidingWithdrawal\HidingWithdrawal.csproj", "{25F7B2B8-CF70-49C3-B753-A9AE281942C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidingWithdrawalPolymorphically", "HidingWithdrawalPolymorphically\HidingWithdrawalPolymorphically.csproj", "{6FE23491-2E0C-4D62-85AB-709AB2B02460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphicInheritance", "PolymorphicInheritance\PolymorphicInheritance.csproj", "{738BD7BC-4C65-43F7-92F1-E18FB527635D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractInheritance", "AbstractInheritance\AbstractInheritance.csproj", "{4AEC7CF1-3605-44A1-A648-FB0471D92840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25F7B2B8-CF70-49C3-B753-A9AE281942C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F7B2B8-CF70-49C3-B753-A9AE281942C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F7B2B8-CF70-49C3-B753-A9AE281942C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F7B2B8-CF70-49C3-B753-A9AE281942C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE23491-2E0C-4D62-85AB-709AB2B02460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE23491-2E0C-4D62-85AB-709AB2B02460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE23491-2E0C-4D62-85AB-709AB2B02460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE23491-2E0C-4D62-85AB-709AB2B02460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738BD7BC-4C65-43F7-92F1-E18FB527635D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738BD7BC-4C65-43F7-92F1-E18FB527635D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738BD7BC-4C65-43F7-92F1-E18FB527635D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738BD7BC-4C65-43F7-92F1-E18FB527635D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEC7CF1-3605-44A1-A648-FB0471D92840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEC7CF1-3605-44A1-A648-FB0471D92840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEC7CF1-3605-44A1-A648-FB0471D92840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEC7CF1-3605-44A1-A648-FB0471D92840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
